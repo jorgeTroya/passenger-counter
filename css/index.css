@@ -25,6 +25,9 @@ button {
     border-radius: 5px;
     color: white;
     font-weight: bold;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
         
 }
 
@@ -39,3 +42,5 @@ button {
 #reset-btn {
     background-color: darkorange;
 }
+
+
